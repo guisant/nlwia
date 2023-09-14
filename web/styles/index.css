@@ -1,0 +1,90 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  
+  #main {
+    width: 500px;
+  }
+  
+  #header {
+    display: block;
+    text-align: center;
+  }
+  
+  #header h1 {
+    color: #8257E5;
+    margin: -1rem 0 4rem 0;
+  }
+  
+  #sectionUrlForm {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+  }
+  
+  #sectionUrlForm form {
+    display: flex;
+  }
+  
+  input[type=url] {
+    width: 400px;
+    padding: 0.8rem 0.7rem;
+    display: inline-block;
+    border: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #202024;
+    color: #fff;
+  }
+  
+  input[type=url]:focus {
+    outline: 1px solid #8257E5;
+  }
+  
+  input[type=url]:valid {
+    background-color: #202024;
+  }
+  
+  button {
+    width: 48px;
+    height: 45px;
+    background-color: #8257E5;
+    color: white;
+    margin: 0 0.7rem;
+    border: none;
+    border-radius: 4px;
+  
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #633BBC;
+  }
+  
+  button i {
+    font-size: 22px;
+  }
+  
+  input::placeholder {
+    color: #7C7C8A;
+  }
+  
+  #sectionResume h3, p {
+    margin: 0;
+    padding-left: 15px;
+  
+    user-select: none;
+  }
+  
+  #sectionResume h3 {
+    font-weight: 700;
+  }
+  
+  #sectionResume p {
+    color: #7C7C8A;
+    font-size: 1rem;
+    font-weight: 300;
+    padding-top: 0.6rem;
+  }
