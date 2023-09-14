@@ -43,21 +43,41 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🎲 Rodando o Backend (servidor)
 
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/guisant/nlw-IA.git
+$ git clone https://github.com/guisant/nlwia.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd nlw-IA
+$ cd nlwia
 
 # Instale as dependências
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev
+$ npm run server
+
+# O servidor iniciará na porta:3333 - acesse http://localhost:3333/summary/"id do video"(codigo após /shorts/..)
+
+```
+
+#### 🧭 Rodando a aplicação web (Frontend)
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/guisant/nlwia.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd nlwia
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run web
 
 # A aplicação será aberta na porta:5173 - acesse http://localhost:5173
 
