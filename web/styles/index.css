@@ -74,8 +74,6 @@
   #sectionResume h3, p {
     margin: 0;
     padding-left: 15px;
-  
-    user-select: none;
   }
   
   #sectionResume h3 {
@@ -83,8 +81,12 @@
   }
   
   #sectionResume p {
-    color: #7C7C8A;
     font-size: 1rem;
     font-weight: 300;
     padding-top: 0.6rem;
+  }
+
+  .placeholder {
+    color: #7C7C8A;
+    user-select: none;
   }
