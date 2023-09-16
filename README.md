@@ -36,6 +36,9 @@ Acesse a demonstração aqui.
 Este projeto é divido em duas partes:
 1. Backend
 2. Frontend
+3. IA
+   3.1 Modelo Whisper - reconhecimento automático de fala (ASR - automatic speech recognition)
+   3.2 Modelo Bart - resumo de texto
 
 ### Pré-requisitos
 
