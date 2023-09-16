@@ -33,12 +33,10 @@ Acesse a demonstração aqui.
 
 ## 🚀 Como executar o projeto
 
-Este projeto é divido em duas partes:
+Este projeto é divido em três partes:
 1. Backend
 2. Frontend
-3. IA
-   3.1 Modelo Whisper - reconhecimento automático de fala (ASR - automatic speech recognition)
-   3.2 Modelo Bart - resumo de texto
+3. IA - Utilizado os modelos: Whisper para reconhecimento automático de fala (ASR - automatic speech recognition) e Bart para resumo de texto
 
 ### Pré-requisitos
 
