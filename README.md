@@ -1,7 +1,7 @@
 
 <h1 align="center">
   
-![Logo](https://github.com/guisant/nlw-IA/assets/37338838/971d28ac-25a4-4413-962a-087bc3b4ceb1)
+![Logo](https://github.com/guisant/nlwia/assets/37338838/28640e18-c592-4495-b810-df387c6c52aa)
 
 </h1>
 
