@@ -24,10 +24,10 @@ form.addEventListener("submit", async (event) => {
   content.textContent = "Realizando resumo..."
   
   //nova rota c/ requisição metodo post e enviando no corpo o resultado da transcrição
-  /*const summary = await server.post("/summary", {
+  const summary = await server.post("/summary", {
     text: transcription.data.result,
-  })*/
+  })
 
-  content.textContent = transcription.data.result
+  content.textContent = summary.data.result
   content.classList.remove("placeholder")
 })
