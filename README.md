@@ -5,10 +5,6 @@
 
 </h1>
 
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
-
 <p align="center">
  <a href="#-shorts-summary">Sobre</a> •
  <a href="#-demo">Demo</a> •
@@ -90,8 +86,14 @@ $ npm run web
 
 As seguintes ferramentas foram usadas na construção do projeto:
  
-![Badge NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Badge Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Badge HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![Badge CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Badge JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Badge AXIOS](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)
+![Badge EXPRESS](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+![Badge OPEN IA](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+
 
 <br>
 
