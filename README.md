@@ -23,7 +23,7 @@ Esse projeto é desenvolvido na trilha Foundations na edição NLW IA.</p>
 
 ## 🔗 Demo
 
-Acesse a demonstração aqui.
+Acesse a demonstração [aqui](https://nlwia-psi.vercel.app/).
 
 <br><br>
 
