@@ -7,7 +7,6 @@
 
 <p align="center">
  <a href="#-shorts-summary">Sobre</a> •
- <a href="#-demo">Demo</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> 
 </p>
@@ -18,12 +17,6 @@
 
 <p>Shorts Summary é uma aplicação web para criar resumo de vídeos shorts do YouTube utilizando Inteligência Artificial para transcrever o conteúdo do vídeo e realizar o resumo do conteúdo.
 Esse projeto é desenvolvido na trilha Foundations na edição NLW IA.</p>
-
-<br><br>
-
-## 🔗 Demo
-
-Acesse a demonstração [aqui](https://nlwia-psi.vercel.app/).
 
 <br><br>
 
